@@ -1,0 +1,3 @@
+,pred_False,pred_True,class_accuracy
+true_False,48002.0,59.0,0.9987723934166997
+true_True,0.0,49707.0,1.0
